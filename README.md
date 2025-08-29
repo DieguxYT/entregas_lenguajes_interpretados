@@ -18,9 +18,8 @@ En el futuro me gustaría trabajar como desarrollador de videojuegos para una em
  
 
 ## Foto
-![Foto](./assets/Diegux.jpg)
+![Foto](./assets/diegux.jpg)
 
 ## Entregables
 - [Práctica 1](./mds/apuntes.md)
-
 
