@@ -23,3 +23,11 @@ Estamos viendo como entrar a la bios para checar que los componentes de la pc es
 Estamos viendo como usar las herramientas de photo shop y como reparar imagenes viejas tambien a hacer montajes no destructivos.
 
 ![Foto](/assets/composicion-diseno-grafico.jpg)
+
+## Diseño de videojuegos
+
+### Anna Guadalupe Olivar
+
+Estamos viendo como hacer todo el paPELEO O LOS DOCUMENTOS DE PREPARACION Y PLANEACION DEL JUEGO TAMBIEN VIMOS COMO USAR UNREAL Y UNITY Y A IDENTIFICAR PARA QUE ES CADA OBJETO DEL JUEGO.
+
+![Foto](</assets/diseño%20videojuegos%20(1).jpg>)
