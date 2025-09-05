@@ -31,3 +31,11 @@ Estamos viendo como usar las herramientas de photo shop y como reparar imagenes 
 Estamos viendo como hacer todo el paPELEO O LOS DOCUMENTOS DE PREPARACION Y PLANEACION DEL JUEGO TAMBIEN VIMOS COMO USAR UNREAL Y UNITY Y A IDENTIFICAR PARA QUE ES CADA OBJETO DEL JUEGO.
 
 ![Foto](</assets/diseño%20videojuegos%20(1).jpg>)
+
+## Proyecto de app
+
+### Eduardo Guerrero
+
+Estamos viendo todos los documentos nessesarios para la planeacion de nuestro juego tambien cosas como el one page y asi tambien ya empezamos a hacer el proyecto en unity 2D.
+
+![Foto](/assets/proyecto%20de%20app.jpg)
