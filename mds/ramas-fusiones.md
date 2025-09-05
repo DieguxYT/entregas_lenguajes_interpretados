@@ -15,3 +15,11 @@ Estamos viendo comandos para la terminal y como usar visual studio code tambien 
 Estamos viendo como entrar a la bios para checar que los componentes de la pc esten funcionando de manera correcta tambien a instalar sistemas operativos en virtual box.
 
 ![Foto](/assets/Sistemas-Operativos-1.jpg)
+
+## Principios del Diseño
+
+### Roberto Melo
+
+Estamos viendo como usar las herramientas de photo shop y como reparar imagenes viejas tambien a hacer montajes no destructivos.
+
+![Foto](/assets/composicion-diseno-grafico.jpg)
