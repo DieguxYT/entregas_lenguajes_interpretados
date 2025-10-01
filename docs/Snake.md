@@ -33,3 +33,9 @@ El algoritmo general para una versión simple de Snake puede estructurarse en es
      - Termina el juego (game over)[web:10][web:6].
 
 ![Foto](/assets/diagramasnake.png)
+
+# Promt
+
+Puedes crear una version del juego de snake en la web usando java script para poder jugarlo desde la pagina web del github
+
+[Conversacion con IA](https://www.perplexity.ai/search/estoy-haciendo-una-practica-y-Vx6TKvO5TJ2iXn0R2g8hSw#0)
