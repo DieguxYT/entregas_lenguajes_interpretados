@@ -28,5 +28,4 @@ En el futuro me gustaría trabajar como desarrollador de videojuegos para una em
 - [Práctica 2](/mds/ramas-fusiones.md)
 - [Práctica 3](/mds/etiquetas.md)
 - [Práctica 4](/mds/primer-parcial.md)
-
-
+- [Práctica 6](/docs/Snake.md)
